@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#transactions {
+    margin-top: 20px;
+}
+
+#monthlyView {
+    text-align: center;
+}
+
+#monthlyView select {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#monthlyView button {
+    margin: 5px;
+}
